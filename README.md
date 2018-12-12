@@ -1,2 +1,2 @@
 # pyxample
-Some example for small application
+Some python example for small application
